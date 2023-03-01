@@ -16,8 +16,8 @@ The data were produced as part of the article:
 
 ## Utilization
 
-We can access the script for 16S rRNA analyzes [here](https://benalric.github.io/2023_Canino_MBMG/)
-We can access the script for 23S rRNA analyzes [here](https://raw.githack.com/benalric/2023_Canino_MBMG/Mock_taxonomy_analysis_23S/index.html)
+We can access the script for 16S rRNA analyzes [here](https://raw.githack.com/Github-Carrtel/2023_Canino_MBMG/Mock_taxonomy_analysis_16S/Mock_taxonomy_analysis_16S.html)
+We can access the script for 23S rRNA analyzes [here](https://raw.githack.com/Github-Carrtel/2023_Canino_MBMG/Mock_taxonomy_analysis_16S/Mock_taxonomy_analysis_23S.html)
 
 ## Version of packages used to create the web application
 ```r
