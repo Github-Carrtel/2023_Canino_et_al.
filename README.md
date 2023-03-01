@@ -11,13 +11,12 @@ Data analysis was done using R version 4.2.1. This document was compiled with th
 
 The data were produced as part of the article:
 
->Canino A., A. Bouchez, B. Alric, C. Lemonnier, I. Domaizon, C. Laplace-Treyture, F. Rimet. Deciphering the preformance of different barcodes and primers to assess freshwater phtyoplankton diversity, submitted to the journal Metabarcoding & Metagenomics.
-
+>Canino A., A. Bouchez, B. Alric, C. Lemonnier, I. Domaizon, C. Laplace-Treyture, F. Rimet. Deciphering the preformance of different barcodes and primers to assess freshwater phtyoplankton diversity, submitted to the journal *Metabarcoding & Metagenomics*.
 
 ## Utilization
 
 We can access the script for 16S rRNA analyzes [here](https://raw.githack.com/Github-Carrtel/2023_Canino_MBMG/Mock_taxonomy_analysis_16S/Mock_taxonomy_analysis_16S.html)
-We can access the script for 23S rRNA analyzes [here](https://raw.githack.com/Github-Carrtel/2023_Canino_MBMG/Mock_taxonomy_analysis_16S/Mock_taxonomy_analysis_23S.html)
+We can access the script for 23S rRNA analyzes [here](https://raw.githack.com/Github-Carrtel/2023_Canino_MBMG/Mock_taxonomy_analysis_23S/Mock_taxonomy_analysis_23S.html)
 
 ## Version of packages used to create the web application
 ```r
