@@ -1,16 +1,5 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "README-"
-)
-```
 
 # 2023_Canino_MBMG
 
@@ -26,7 +15,7 @@ We can access the script for 16S rRNA analyzes [here](https://github.com/Github-
 We can access the script for 23S rRNA analyzes [here](https://github.com/Github-Carrtel/2023_Canino_MBMG/blob/main/Mock_taxonomy_analysis_23S.html)
 
 ## Version of packages used to create the web application
-```{r, eval = FALSE}
+```r
 sessionInfo()
 
 R version 4.2.1 (2022-06-23 ucrt)
