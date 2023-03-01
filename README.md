@@ -9,6 +9,10 @@ In this repository, you will find two tutorials explaining how we processed meta
 
 Data analysis was done using R version 4.2.1. This document was compiled with the rmarkdown package version 2.8. This tutorial is licensed under CC BY-NC-ND 4.0, which means you are free to share, copy and redistribute this tutorial in any medium or format under the terms of attribution of appropriate credit, non-commercial purposes and no derivatives.
 
+The data were produced as part of the article:
+
+>Canino A., A. Bouchez, B. Alric, C. Lemonnier, I. Domaizon, C. Laplace-Treyture, F. Rimet. Deciphering the preformance of different barcodes and primers to assess freshwater phtyoplankton diversity, submitted to the journal Metabarcoding & Metagenomics.
+
 ## Utilization
 
 We can access the script for 16S rRNA analyzes [here](https://raw.githack.com/Github-Carrtel/2023_Canino_MBMG/Mock_taxonomy_analysis_16S/Mock_taxonomy_analysis_16S.html)
