@@ -12,7 +12,7 @@ Data analysis was done using R version 4.2.1. This document was compiled with th
 ## Utilization
 
 We can access the script for 16S rRNA analyzes [here](https://benalric.github.io/2023_Canino_MBMG/)
-We can access the script for 23S rRNA analyzes [here](https://github.com/Github-Carrtel/2023_Canino_MBMG/blob/main/Mock_taxonomy_analysis_23S.html)
+We can access the script for 23S rRNA analyzes [here](https://benalric.github.io/2023_Canino_MBMG/)
 
 ## Version of packages used to create the web application
 ```r
