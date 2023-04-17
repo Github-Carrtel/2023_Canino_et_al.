@@ -11,7 +11,7 @@ Data analysis was done using R version 4.2.1. This document was compiled with th
 
 The data were produced as part of the article:
 
->Canino A., A. Bouchez, B. Alric, C. Lemonnier, I. Domaizon, C. Laplace-Treyture, F. Rimet. Deciphering the preformance of different barcodes and primers to assess freshwater phtyoplankton diversity, submitted to the journal *Metabarcoding & Metagenomics*.
+>Canino A.,  C. Lemonnier, B. Alric, A. Bouchez, I. Domaizon, C. Laplace-Treyture, F. Rimet. Which barcode to decipher freshwater microalgal assemblages? Tests on mock communities, submitted to the journal *Metabarcoding & Metagenomics*.
 
 ## Utilization
 
