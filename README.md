@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# 2023_Canino_MBMG
+# 2023_Canino_et_al.
 
 ## Overview
 
