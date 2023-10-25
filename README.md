@@ -11,7 +11,7 @@ Data analysis was done using R version 4.2.1. This document was compiled with th
 
 The data were produced as part of the article:
 
->Canino A.,  C. Lemonnier, B. Alric, A. Bouchez, I. Domaizon, C. Laplace-Treyture, F. Rimet. Which barcode to decipher freshwater microalgal assemblages? Tests on mock communities, submitted to the journal *Metabarcoding & Metagenomics*.
+>Canino A.,  C. Lemonnier, B. Alric, A. Bouchez, I. Domaizon, C. Laplace-Treyture, F. Rimet. 2023. Which barcode to decipher freshwater microalgal assemblages? Tests on mock communities, submitted to the journal *International Journal of Limnology 59, 8*.
 
 ## Utilization
 
